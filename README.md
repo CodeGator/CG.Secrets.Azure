@@ -1,9 +1,9 @@
 # CG.Secrets.Azure: 
 ---
-[![Build Status](https://dev.azure.com/codegator/CG.Secrets.Azure/_apis/build/status/CodeGator.CG.Secrets.Azure?branchName=master)](https://dev.azure.com/codegator/CG.Secrets.Azure/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/codegator/CG.Secrets.Azure/_apis/build/status/CodeGator.CG.Secrets.Azure?branchName=main)](https://dev.azure.com/codegator/CG.Secrets.Azure/_build/latest?definitionId=50&branchName=main)
 [![Github docs](https://img.shields.io/static/v1?label=Documentation&message=online&color=blue)](https://codegator.github.io/CG.Secrets.Azure/)
 [![NuGet downloads](https://img.shields.io/nuget/dt/CG.Secrets.Azure.svg?style=flat)](https://nuget.org/packages/CG.Secrets.Azure)
-![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Secrets.Azure/1)
+![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Secrets.Azure/50)
 [![Github discussion](https://img.shields.io/badge/Discussion-online-blue)](https://github.com/CodeGator/CG.Secrets.Azure/discussions)
 
 #### What does it do?
