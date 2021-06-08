@@ -13,162 +13,6 @@
       "is_incremental": false
     },
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.ChainedTokenLoginOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.ChainedTokenLoginOptions.html",
-          "hash": "8R7/3Ez1azpIfmG6ewRdY7NZhgFqgRHIpLlhQHb+dEc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.ClientSecretLoginOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.ClientSecretLoginOptions.html",
-          "hash": "2fYfzOf7+Axpe2nXZFtlzGxVz/afO/5BrBzGfo5yVBM="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.DefaultAzureLoginOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.DefaultAzureLoginOptions.html",
-          "hash": "W+r/68xRj60geVG6bM+wZqqwYlBzIbXs2heG1xf6Hfc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.EnvironmentLoginOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.EnvironmentLoginOptions.html",
-          "hash": "FPrZxaK5BErFf1xrqf2JHPBjVIqz3KvpkP8Tu2K8hJw="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.LoginOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.LoginOptions.html",
-          "hash": "pplIRbXl4mq+gteWsV32qceLn45x+qL7jhWlMZpn7tM="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.SecretRepositoryOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.SecretRepositoryOptions.html",
-          "hash": "QyjK5Pwdgnh3B+G+2tPJz0PGI6vxGUstHXsMC9ZdylQ="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.VisualStudioCodeLoginOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.VisualStudioCodeLoginOptions.html",
-          "hash": "wxQ9FP8eVZgRZrP9UnT4/hnm/dMv3RL1HtnRrdxyZXk="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.VisualStudioLoginOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.VisualStudioLoginOptions.html",
-          "hash": "aX+S94s/8yOHw5vusF+R7jchA+YNR8NDFChVjm9iEhE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.Options.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.Options.html",
-          "hash": "wTw037uuNaU/BuHaFUO96NSePIq3AR9OcmfcMxWQ60w="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.SecretRepository.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.SecretRepository.html",
-          "hash": "oVij2Mtb+fIgETnkY43xVh+WrCOCszg/bSrhPKbIwh0="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Secrets.Azure.Repositories.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Secrets.Azure.Repositories.html",
-          "hash": "3TjKARQFyQG+c0jSdtX/EmBzG7bnq2z2uBPRy8Xufe8="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.SecretsAzureServiceCollectionExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.SecretsAzureServiceCollectionExtensions.html",
-          "hash": "YDs0FIBBW3OagZoUamVlKPxMK6phZjXkm+4QkjvH2Yo="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.html",
-          "hash": "kmFKtryndk4N4Ove5FWkU9Vd/o1gv6ifW7dSk2GJpvE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
@@ -181,12 +25,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "63fM1aPmMYrjlXU/MP8C7wSY93q/DcfOeiZ0yBIXLkc="
+          "hash": "n+HfZL3mOX8Yn2xm8apoiB7B0XTRnlTmkQuAY2hpJOI="
         }
       },
       "is_incremental": false,
@@ -273,12 +120,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "61QcQKJMmmBcdB0kWODJN0vti53LjpJNwXO4nuooCqU="
+          "hash": "tQAifr3UtzJCJiy0xJmE55ZppwjrRb0TNZr5LWuQpBQ="
         }
       },
       "is_incremental": false,
@@ -300,12 +150,6 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 13,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
